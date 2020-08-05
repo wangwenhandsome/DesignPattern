@@ -18,5 +18,6 @@ public class Singleton {
     public static Singleton getUniqueInstance() {
         return SingletonHolder.INSTANCE;
     }
+    ////
 }
 
